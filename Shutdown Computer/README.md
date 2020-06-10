@@ -8,3 +8,4 @@ This is a python script which uses os.system module which performs 3 operations.
 If you Like my work hit 🌟 to this repository.  
 
 Here is the carbon code of app.py
+![carbon_code](carbon_code.png)
